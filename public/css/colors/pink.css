@@ -1,0 +1,100 @@
+
+.strong {
+  color: #FFB9FC;
+}
+strong {
+  color: #FFB9FC;
+}
+.underline {
+  background: #FFB9FC; }
+
+.colo#FFB9FC-text {
+  color: #FFB9FC !important; }
+
+.color-background {
+  background: #FFB9FC; }
+#getting-started {
+  border: 1px solid #FFB9FC;
+  border-radius: 5px;
+}
+a {
+  color: #FFB9FC; }
+
+.navbar-toggle {
+  border: none !important;
+  background-color: #FFB9FC !important; }
+
+.navbar-toggle:hover {
+  background-color: #FFB9FC !important; }
+
+.non-sticky .navbar-nav > li > a:hover {
+  color: #FFB9FC; }
+
+.standard-button {
+  border: 2px solid #FFB9FC !important;
+  border-radius: 0 !important;
+  background-color: #FFB9FC;
+}
+
+.standard-button:hover {
+  background:#FFB9FC;
+  color: #323232;
+}
+.package .header-dark {
+  background-color: #FFB9FC;
+}
+.package-center .header {
+  background-color: #FFB9FC;
+}
+.package-features .bottom-row .standard-button {
+  background-color: #FFB9FC;
+}
+.package-features .bottom-row .standard-button:hover {
+  background-color: #fff;
+    border-color: #FFB9FC !important;
+}
+.package-features .bottom-row .secondary-button {
+  margin: 0;
+  padding: 5px 15px;
+  vertical-align: middle;
+    background-color: #FFB9FC;
+    border: 1px solid transparent;
+}
+.package-features .bottom-row .secondary-button:hover {
+    background-color: #fff;
+    border-color: #FFB9FC;
+}
+.secondary-button:hover {
+   }
+
+.sticky-navigation .main-navigation .current a {
+  color: #fff !important;
+  border-color: transparent; !important; }
+
+.sticky-navigation .navbar-nav > li > a:hover {
+  color: #fff;
+  border-color: transparent; }
+
+.feature-list li .icon-custom {
+   }
+
+.feature .icon {
+  color: #FFB9FC; }
+.feature .icon i:hover{
+	border: 2px solid #FFB9FC;
+}
+.input-box:active,
+.textarea-box:active,
+.input-box:focus,
+.textarea-box:focus {
+  border: 2px solid #FFB9FC !important; 
+  
+}
+
+.portfolio .owl-theme .owl-controls .owl-page span {
+  background: #FFB9FC; }
+
+.social-icons li a:hover {
+  background: #FFB9FC; }
+
+/*# sourceMappingURL=alizarin.css.map */
