@@ -1,1 +1,1 @@
-## 基于Bootstrap+JQuery+Laravel+MySQL个人博客网站
+## 基于PHP+Laravel+Bootstrap+JQuery+MySQL个人博客网站
